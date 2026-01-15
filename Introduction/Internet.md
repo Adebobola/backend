@@ -1,12 +1,12 @@
 ## How the internet works? 
 
-- A network is a group of coputers or other devices which are connected to each other 
+- A network is a group of computers or other devices which are connected to each other 
 - The internet is a network of networks 
 - The internet works by connecting devices and computer systems together, using a set of standardized protocols 
 
 ## Basic Concepts and Terminology 
 
-- IP - Internet Protocol - repsonsible for routing packets to their correct destinations. 
+- IP - Internet Protocol - responsible for routing packets to their correct destinations. 
 - TCP - Transmission Control Protocol - ensures that packets are transmitted reliably and in the correct order.
 - Packet - A small unit of data that is transmitted over the internet. 
 - Router - A device that directs packets of data between different networks 
